@@ -261,7 +261,7 @@
       "requiresVpn": true,
       "options": [
         { "type": "sniff", "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html" },
-        { "type": "stream", "value": "SEGUNDO_LINK_AQUI" }
+        { "type": "stream", "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/147167" }
       ]
     },
     {
@@ -270,7 +270,7 @@
       "requiresVpn": false,
       "options": [
         { "type": "sniff", "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/128.m3u8" },
-        { "type": "sniff", "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/147167" }
+        { "type": "sniff", "value": "SEGUNDO_LINK_AQUI" }
       ]
     },
     {
