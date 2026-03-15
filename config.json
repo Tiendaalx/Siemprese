@@ -334,16 +334,13 @@
           "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8",
           "requiresVpn": false
         },
-        {
+          {
           "title": "CINEMAX",
           "imageUrl": "https://i.postimg.cc/T3CRYqT3/cinemax-285.png",
           "type": "sniff",
           "value": "https://www.telegratishd.com/cinemax-en-vivo.html",
           "requiresVpn": true
         }
-      ]
-    },
-    
       ]
     }
   ]
