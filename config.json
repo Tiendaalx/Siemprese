@@ -346,7 +346,13 @@
     {
       "title": "PELICULAS",
       "items": [
-       
+           {
+          "title": "pelicreator",
+          "imageUrl": "http://latinostream.xyz:80/images/QCqX5p5x3Y181Q8jwb82JGjTlNUZbU2ocakvb60lfgJdg8pjTQtEnSlwBunllRTX.png",
+          "type": "sniff",
+          "value": "https://vexo.tv/watch/movie?id=1265609",
+          "requiresVpn": true
+        }
       ]
     }
   ]
