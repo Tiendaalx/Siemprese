@@ -261,7 +261,7 @@
       "requiresVpn": true,
       "options": [
         { "type": "sniff", "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html" },
-        { "type": "sniff", "value": "https://antenasport.org/dazn1laliga.php" }
+        { "type": "web", "value": "https://antenasport.org/dazn1laliga.php" }
       ]
     },
     {
