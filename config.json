@@ -1,5 +1,5 @@
 {
-  "appName": "Telelatino2",
+  "appName": "Telelatino",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.6/telelatino.apk",
   "menu": [
     {
@@ -343,16 +343,7 @@
         }
       ]
     },
-    {
-      "title": "PELICULAS",
-      "items": [
-           {
-          "title": "pelicreator",
-          "imageUrl": "http://latinostream.xyz:80/images/QCqX5p5x3Y181Q8jwb82JGjTlNUZbU2ocakvb60lfgJdg8pjTQtEnSlwBunllRTX.png",
-          "type": "sniff",
-          "value": "https://vexo.tv/watch/movie?id=1265609",
-          "requiresVpn": true
-        }
+    
       ]
     }
   ]
