@@ -38,13 +38,7 @@
           "requiresVpn": false
         },
         {
-  "title": "Prueba Embed",
-  "imageUrl": "https://imgs.search.brave.com/OXw1Zxk1Zc65TcIPj35AhS-JZ_zaXt8JWgaNZ5-Joak/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UwL2Nl/LzQyL2UwY2U0MjNh/NjFhOGQyNmViMzA3/NTM4YjJiZTIwMDdi/LmpwZw",
-  "type": "embed",
-  "value": "https://antenasport.org/dazn1laliga.php",
-  "requiresVpn": false
-},
-        {
+  {
           "title": "La 2",
           "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kqgHWySi5xprs1VFCNCX0IKNT8yXBLZC43JMoB8j0JUto=s200",
           "type": "stream",
