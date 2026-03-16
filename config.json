@@ -142,17 +142,17 @@
           ]
         },
         {
-          "title": "Antena 3",
-          "imageUrl": "https://posters.hyloft.online/1547764643405.png",
+          "title": "DISCOVERY",
+          "imageUrl": "https://brandemia.org/sites/default/files/inline/images/discovery_logo_antes.jpg",
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/646"
+              "type": "stream",
+              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8"
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/discovery-channel-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -218,13 +218,13 @@
           ]
         },
         {
-          "title": "NEOX",
-          "imageUrl": "https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2014/09/08/71E21C36-DD7C-437A-814E-6919AD69D1B4/58.jpg",
+          "title": "RNE",
+          "imageUrl": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/305199103_507329958061256_1402581169584861695_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=08baa4&_nc_ohc=e5NT_XxTLjgQ7kNvwEWI5wx&_nc_oc=AdkV36SKKgnCNJK2chCNo9dA6L8Cc4iDl6XldVTbQkvDfABejEUNA3JK7IuKmLzZuj9gCzyrt7RGDc9BEyERQc4v&_nc_zt=24&_nc_ht=scontent-mad2-1.xx&edm=AKsJ254EAAAA&_nc_gid=_DdXmcAq5eXzG_j6hjeD4w&oh=00_AfwtHLXFnfS3sqFlAQWPv8yka1ciobXqftjdZvQxFu02_Q&oe=69BE6193",
           "requiresVpn": true,
           "options": [
             {
               "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/755"
+              "value": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8"
             },
             {
               "type": "stream",
@@ -237,13 +237,13 @@
           ]
         },
         {
-          "title": "TELECINCO",
-          "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/31/15409900086535.jpg",
+          "title": "AyE",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQflBhFV_vpOxkEo2PDO9eG__hRYJzcU1W2Q&s",
           "requiresVpn": true,
           "options": [
             {
               "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/647"
+              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-71.playlist.m3u8"
             },
             {
               "type": "stream",
