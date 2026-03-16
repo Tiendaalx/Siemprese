@@ -532,16 +532,16 @@
           "requiresVpn": true,
           "options": [
             {
+              "type": "stream",
+              "value": "http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/4748"
+            },
+            {
               "type": "sniff",
               "value": "https://www.telegratishd.com/directv-sports-en-vivo.html"
             },
             {
-              "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
-            },
-            {
-              "type": "sniff",
-              "value": "TERCER_LINK_AQUI"
+              "type": "stream",
+              "value": "http://icomplay.net:80/play/xsMhoipHrR2xCy_HYxpmae-C4-JA0u4YhmR77im-tB6B1Ebanz7705_2wTzGyg-P/ts"
             }
           ]
         },
