@@ -1,5 +1,5 @@
 {
-  "appName": "Telelatino2",
+  "appName": "TeleLatino",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.6/telelatino.apk",
   "menu": [
     {
@@ -68,7 +68,7 @@
         {
           "title": "CUATRO",
           "imageUrl": "https://docdog.top/logo/countries/spain/movistar/Cuatro.png",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "stream",
