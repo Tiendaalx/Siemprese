@@ -353,7 +353,7 @@
         {
           "title": "CINECANAL",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png",
-          "type": "stream",
+          "type": "sniff",
           "value": "https://www.tvporinternet2.com/cinecanal-en-vivo-por-internet.html",
           "requiresVpn": true
         }
