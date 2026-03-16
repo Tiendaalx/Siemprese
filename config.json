@@ -68,7 +68,7 @@
         {
           "title": "CUATRO",
           "imageUrl": "https://docdog.top/logo/countries/spain/movistar/Cuatro.png",
-          "requiresVpn": true,
+          "requiresVpn": false,
           "options": [
             {
               "type": "stream",
@@ -182,7 +182,7 @@
         {
           "title": "caracol",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "sniff",
@@ -201,19 +201,19 @@
         {
           "title": "TELEMUNDO",
           "imageUrl": "https://i.postimg.cc/J4nB4W3b/photo.jpg",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "stream",
               "value": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/telemundo-51-en-vivo.html"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/telemundo-internacional-en-vivo-por-internet.html"
             }
           ]
         },
@@ -266,16 +266,16 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/movistar-liga-de-campeones-en-vivo-por-internet.html"
+            },
+            {
+              "type": "sniff",
               "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161959"
             },
             {
               "type": "sniff",
               "value": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html"
-            },
-            {
-              "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/264"
             }
           ]
         },
@@ -323,12 +323,12 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161873"
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=laligahypermotion"
             },
             {
-              "type": "stream",
-              "value": "http://icomplay.net:80/play/xsMhoipHrR2xCy_HYxpmaUt2TH_bUSPxflj5-K0tjXL7TVOdOWQuYRHvTBtkaJC8/ts"
+              "type": "sniff",
+              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161873"
             },
             {
               "type": "stream",
@@ -361,12 +361,12 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/56469"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/dazn-f1-en-vivo.html"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.html"
             },
             {
               "type": "stream",
@@ -384,12 +384,12 @@
               "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn7lt.playlist.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/espn-7-en-vivo-por-internet.html"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=espn7"
             }
           ]
         },
@@ -403,12 +403,12 @@
               "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espnpremlat.playlist.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/espn-premium-en-vivo-por-internet.html"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/espn-premium-en-vivo.html"
             }
           ]
         },
@@ -514,15 +514,15 @@
           "options": [
             {
               "type": "stream",
-              "value": "http://tv.proyectox.vip:8080/Joesanti0710/70827c3326ad/157585"
+              "value": "https://streamtp10.com/global1.php?stream=tntsports"
             },
             {
               "type": "sniff",
               "value": "https://streamtp10.com/global1.php?stream=tntsports"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=tntsports"
             }
           ]
         },
@@ -533,7 +533,7 @@
           "options": [
             {
               "type": "stream",
-              "value": "http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/4748"
+              "value": "https://www.telegratishd.com/directv-sports-en-vivo.html"
             },
             {
               "type": "sniff",
@@ -555,19 +555,19 @@
               "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
             },
             {
-              "type": "stream",
-              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/dazn-la-liga-en-vivo.html"
             },
             {
               "type": "stream",
-              "value": "http://vipambataousam.top:8080/VIP013201751290218503/adb698998b73/243"
+              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922"
             }
           ]
         },
         {
           "title": "TUDN",
           "imageUrl": "https://static.wikia.nocookie.net/youtubepedia/images/3/32/TUDN_M%C3%A9xico.jpg/revision/latest/thumbnail/width/360/height/360?cb=20211120191946&path-prefix=es",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "sniff",
@@ -575,11 +575,11 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.telegratishd.com/tudn-en-vivo.html"
             },
             {
               "type": "sniff",
-              "value": "TERCER_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/tudn-en-vivo-por-internet.html"
             }
           ]
         },
@@ -618,7 +618,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/cartoon-network-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -637,7 +637,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/disney-channel-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -680,7 +680,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/star-channel-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -691,7 +691,7 @@
         {
           "title": "HBO",
           "imageUrl": "https://loghi-famosi.com/wp-content/uploads/2020/09/HBO-Simbolo-650x366.jpg",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "stream",
@@ -718,7 +718,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/space-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -737,7 +737,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/tnt-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -756,7 +756,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/fx-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
@@ -775,7 +775,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.telegratishd.com/cinecanal-en-vivo.html"
             },
             {
               "type": "sniff",
@@ -810,7 +810,7 @@
         {
           "title": "FOXSPORT",
           "imageUrl": "https://i.postimg.cc/bJrmWdy0/In-Shot-20250707-101631684.jpg",
-          "requiresVpn": false,
+          "requiresVpn": true,
           "options": [
             {
               "type": "stream",
@@ -818,7 +818,7 @@
             },
             {
               "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
             },
             {
               "type": "stream",
@@ -837,7 +837,7 @@
             },
             {
               "type": "sniff",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://www.tvporinternet2.com/cinemax-en-vivo-por-internet.html"
             },
             {
               "type": "sniff",
