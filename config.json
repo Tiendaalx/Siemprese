@@ -1,5 +1,5 @@
 {
-  "appName": "Telelatino4",
+  "appName": "Telelatino.",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.6/telelatino.apk",
 
   "menu": [
@@ -353,7 +353,7 @@
         {
           "title": "CINECANAL",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png",
-          "type": "sniff",
+          "type": "stream",
           "value": "http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8",
           "requiresVpn": true
         }
@@ -366,7 +366,7 @@
         {
           "title": "MOVISTAR ACION",
           "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQpf3bK8lcZBW6dNMJs5kZ2o-4mpMEdmUXQ&s",
-          "type": "stream",
+          "type": "sniff",
           "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/656",
           "requiresVpn": false
         },
