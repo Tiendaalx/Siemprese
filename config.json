@@ -814,11 +814,11 @@
           "options": [
             {
               "type": "stream",
-              "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8"
+              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
             },
             {
-              "type": "stream",
-              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
+              "type": "sniff",
+              "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8"
             },
             {
               "type": "stream",
