@@ -95,7 +95,7 @@
           "imageUrl": "https://posters.hyloft.online/1547764643405.png",
           "requiresVpn": true,
           "options": [
-            { "type": "sniff", "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/646" },
+            { "type": "stream", "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/646" },
             { "type": "sniff", "value": "LINK2" },
             { "type": "sniff", "value": "LINK3" }
           ]
@@ -115,7 +115,7 @@
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",
           "requiresVpn": false,
           "options": [
-            { "type": "sniff", "value": "http://38.196.178.253:9999/otrolado/caracol/playlist.m3u8" },
+            { "type": "stream", "value": "http://38.196.178.253:9999/otrolado/caracol/playlist.m3u8" },
             { "type": "sniff", "value": "LINK2" },
             { "type": "sniff", "value": "LINK3" }
           ]
