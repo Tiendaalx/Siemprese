@@ -280,17 +280,17 @@
           ]
         },
         {
-          "title": "M+ LALIGA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjh8Fs-FpZOFJe-3UU7fzEeMl9mBAbYh8kA&s",
+          "title": "TYC SPORT",
+          "imageUrl": "https://i.postimg.cc/K8sbJGXH/In-Shot-20260315-085123758.jpg",
           "requiresVpn": true,
           "options": [
             {
               "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/252"
+              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-tycar.playlist.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/tyc-sports-en-vivo.html"
             },
             {
               "type": "stream",
@@ -299,17 +299,17 @@
           ]
         },
         {
-          "title": "M+ COPA DEL REY",
-          "imageUrl": "https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png",
+          "title": "BEIN SPOR",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/1280px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
           "requiresVpn": true,
           "options": [
             {
               "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/130169"
+              "value": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/bein-sports-xtra-en-vivo-por-internet.html"
             },
             {
               "type": "stream",
@@ -342,12 +342,12 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/286"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/movistar-deportes-en-vivo.html"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.html"
             },
             {
               "type": "stream",
@@ -584,13 +584,13 @@
           ]
         },
         {
-          "title": "EUROSPORT",
-          "imageUrl": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1kaqhtrr0kcl11563aff0431p8_image-header_pEs_1661945507000&quality=70",
+          "title": "WIN SPORT",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://vipdurwendur.top:8080/VIP018801763122959116/95718e29d326/281"
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=winplus"
             },
             {
               "type": "stream",
