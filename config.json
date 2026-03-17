@@ -280,14 +280,7 @@
             }
           ]
         },
-        {
-  "title": "Canal VLC prueba",
-  "imageUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQED6Lpd4qEfgg/company-logo_200_200/company-logo_200_200/0/1721167443441/winsports_logo?e=2147483647&v=beta&t=MvWMxcQ3PSsu_E2h8zAWBHwhMaIXFIQFx3BAUcfkYGc",
-  "type": "vlc",
-  "value": "http://38.196.178.253:9999/otrolado/caracol/playlist.m3u8",
-  "requiresVpn": false
-},
-        {
+       {
           "title": "TYC SPORT",
           "imageUrl": "https://i.postimg.cc/K8sbJGXH/In-Shot-20260315-085123758.jpg",
           "requiresVpn": true,
