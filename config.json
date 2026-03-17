@@ -60,8 +60,8 @@
               "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "vlc",
+              "value": "http://201.182.250.126:9999/play/a0rx"
             }
           ]
         },
