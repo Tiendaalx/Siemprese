@@ -56,7 +56,7 @@
               "value": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             },
             {
-              "type": "stream",
+              "type": "vlc",
               "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
             },
             {
