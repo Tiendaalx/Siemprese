@@ -87,3 +87,43 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-53.playl
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-61.playlist.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="" tvg-logo="https://i.postimg.cc/wTFKhqZW/cinecanal-285.png" group-title="premium",Canal 152
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-62.playlist.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="" tvg-logo="https://i.postimg.cc/6Qv11tbx/tntseries-285.png" group-title="premium",Canal 153
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-64.playlist.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="" tvg-logo="https://i.postimg.cc/BnWFB3FK/TNT-Novelas-285.png" group-title="premium",Canal 154
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-65.playlist.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="" tvg-logo="https://i.postimg.cc/RVt6FYYV/studiouniversal-285.png" group-title="premium",Canal 156
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-67.playlist.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://i.postimg.cc/2jV0S4f8/Star-Channel-285.png" group-title="premium",Canal 157
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="" tvg-logo="https://i.postimg.cc/zXhpn8Bs/Space-285.png" group-title="premium",Canal 158
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69.playlist.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="" tvg-logo="https://i.postimg.cc/tgBzXgSx/AyE-285.png" group-title="premium",Canal 160
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-71.playlist.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="" tvg-logo="https://i.postimg.cc/pL28pHnY/Paramount-285.png" group-title="premium",Canal 161
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-72.playlist.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="" tvg-logo="https://i.postimg.cc/3rv2q9Tp/Filmy-Arts-285.png" group-title="premium",Canal 162
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-FilmyArt.playlist.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="" tvg-logo="https://i.postimg.cc/DyQLvZmw/TLC-285.png" group-title="premium",Canal 163
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/tlc.playlist.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="" tvg-logo="https://i.postimg.cc/m2S1x56c/volver-285.png" group-title="premium",Canal 165
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-74.playlist.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="" tvg-logo="https://i.postimg.cc/vZHgGtp0/Universal-Channel-285.png" group-title="premium",Canal 166
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-75.playlist.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="" tvg-logo="https://i.postimg.cc/kg1VGtCq/amc-285.png" group-title="premium",Canal 167
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-76.playlist.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="" tvg-logo="https://i.postimg.cc/J0L0vNNc/FX-285.png" group-title="premium",Canal 169
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-78.playlist.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="" tvg-logo="https://i.postimg.cc/jdv23JLP/Bravo-285.png" group-title="premium",Canal 171
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-80.playlist.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="" tvg-logo="https://i.postimg.cc/dQGSjNML/pluss.webp" group-title="premium",Canal 172
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-109.playlist.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="" tvg-logo="https://www.nicepng.com/png/detail/233-2333069_hbo-signature-logo-png.png" group-title="premium",Canal 174
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-107.playlist.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="" tvg-logo="https://logodix.com/logo/789117.jpg" group-title="premium",Canal 175
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101.playlist.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="" tvg-logo="https://focalizando.com.br/sites/default/files/inline-images/Hbomundi.webp" group-title="premium",Canal 176
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-110.playlist.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="" tvg-logo="https://i.postimg.cc/63tB52n0/pop.png" group-title="premium",Canal 177
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-108.playlist.m3u8
+#EXTINF:-1 tvg-id="179" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/653-6538228_hbo-2-hd-logo-png-transparent-png.png" group-title="premium",Canal 179
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-105.playlist.m3u8
