@@ -684,7 +684,7 @@
             },
             {
               "type": "sniff",
-              "value": "TERCER_LINK_AQUI"
+              "value": "https://www.atresplayer.com/directos/neox/"
             }
           ]
         },
@@ -702,8 +702,8 @@
               "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://www.vertvcable.com/hbo-en-vivo/"
             }
           ]
         },
