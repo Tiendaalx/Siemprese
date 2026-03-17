@@ -269,7 +269,6 @@
               "type": "sniff",
               "value": "https://www.tvporinternet2.com/movistar-liga-de-campeones-en-vivo-por-internet.html"
             },
-            
             {
               "type": "sniff",
               "value": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html"
@@ -280,7 +279,7 @@
             }
           ]
         },
-       {
+        {
           "title": "TYC SPORT",
           "imageUrl": "https://i.postimg.cc/K8sbJGXH/In-Shot-20260315-085123758.jpg",
           "requiresVpn": true,
