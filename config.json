@@ -56,8 +56,8 @@
               "value": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             },
             {
-              "type": "sniff",
-              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+              "type": "vlc",
+              "value": "https://archive.org/download/img-20260131-wa-0012/Zootopia.2.2025.1080p-Dual-Lat.mkv"
             },
             {
               "type": "vlc",
