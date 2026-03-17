@@ -128,4 +128,4 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-108.play
 #EXTINF:-1 tvg-id="179" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/653-6538228_hbo-2-hd-logo-png-transparent-png.png" group-title="premium",Canal 179
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-105.playlist.m3u8
 #EXTINF:-1 tvg-id="179" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/653-6538228_hbo-2-hd-logo-png-transparent-png.png" group-title="premium",Canal 179
-http://181.78.8.199:8000/play/a09f/index.m3u8
+http://201.182.250.126:9999/play/a0rx
