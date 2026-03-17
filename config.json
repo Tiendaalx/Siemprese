@@ -270,6 +270,13 @@
               "value": "https://www.tvporinternet2.com/movistar-liga-de-campeones-en-vivo-por-internet.html"
             },
             {
+  "title": "Canal VLC prueba",
+  "imageUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQED6Lpd4qEfgg/company-logo_200_200/company-logo_200_200/0/1721167443441/winsports_logo?e=2147483647&v=beta&t=MvWMxcQ3PSsu_E2h8zAWBHwhMaIXFIQFx3BAUcfkYGc",
+  "type": "vlc",
+  "value": "http://201.182.250.126:9999/play/a0rx",
+  "requiresVpn": false
+},
+            {
               "type": "sniff",
               "value": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html"
             },
