@@ -57,10 +57,10 @@
             },
             {
               "type": "vlc",
-              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+              "value": "http://201.182.250.126:9999/play/a0rx"
             },
             {
-              "type": "stream",
+              "type": "web",
               "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
             }
           ]
