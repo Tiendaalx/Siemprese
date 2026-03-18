@@ -1,1 +1,40 @@
-ff
+{
+  "featured": [
+    {
+      "title": "Estreno 01",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/7998821772245471b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+    },
+    {
+      "title": "Estreno 02",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/11681901770004502b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=1168190&movie#3"
+    },
+    {
+      "title": "Estreno 03",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/12361531771647665b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=1236153&movie#3"
+    },
+    {
+      "title": "Estreno 04",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/13063681768623702b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=1306368&movie#3"
+    },
+    {
+      "title": "Estreno 05",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/6288471767452247b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=628847&movie#3"
+    },
+    {
+      "title": "Estreno 06",
+      "imageUrl": "http://170.246.176.223:12300/poster/w600/10869101760234512b.jpg",
+      "type": "web_player",
+      "value": "http://170.246.176.223:12300/?watch=1086910&movie#3"
+    }
+  ]
+}
