@@ -94,7 +94,7 @@
               "value": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
             },
             {
-              "type": "stream",
+              "type": "web_player",
               "value": "https://cointv.site/canales.php?id=tve24h"
             },
             {
