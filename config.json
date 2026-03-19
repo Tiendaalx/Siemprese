@@ -95,11 +95,11 @@
             },
             {
               "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "value": "https://cointv.site/canales.php?id=tve24h"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "sniff",
+              "value": "https://cointv.site/canales.php?id=tve24h"
             }
           ]
         },
