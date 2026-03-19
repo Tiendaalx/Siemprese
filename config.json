@@ -1,5 +1,5 @@
 {
-  "appName": "TeleLatino",
+  "appName": "TeleLatino.",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.7/telelatino.apk",
   "menu": [
     {
@@ -57,7 +57,7 @@
             },
             {
               "type": "web_player",
-              "value": "https://w1.sportzsonline.click/channels/hd/hd6.php"
+              "value": "https://mediahosting.space/embed/player?config=0014bcd9-f4db-40dd-bb18-8f65f173659d"
             },
             {
               "type": "web_player",
