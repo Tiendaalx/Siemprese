@@ -56,8 +56,8 @@
               "value": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             },
             {
-              "type": "stream",
-              "value": "https://medixiru.com/e/8a2k9szx3gwe"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/162"
             },
             {
               "type": "web_player",
