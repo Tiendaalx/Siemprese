@@ -18,7 +18,7 @@
       "value": "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone"
     },
     {
-      "title": "Contacto.",
+      "title": "Contacto",
       "type": "external",
       "value": "https://wa.me/34624931996"
     }
@@ -38,11 +38,11 @@
             },
             {
               "type": "stream",
-              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "web_player",
-              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -56,12 +56,12 @@
               "value": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             },
             {
-              "type": "vlc",
-              "value": "https://archive.org/download/img-20260131-wa-0012/Zootopia.2.2025.1080p-Dual-Lat.mkv"
+              "type": "stream",
+              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
             },
             {
-              "type": "vlc",
-              "value": "http://201.182.250.126:9999/play/a0rx"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -513,8 +513,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "https://streamtp10.com/global1.php?stream=tntsports"
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/tnt-sports-en-vivo.html"
             },
             {
               "type": "sniff",
