@@ -1,5 +1,5 @@
 {
-  "appName": "TeleLatino.",
+  "appName": "TeleLatino",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.7/telelatino.apk",
   "menu": [
     {
@@ -61,7 +61,7 @@
             },
             {
               "type": "web_player",
-              "value": "https://capo7play.com/capo2.php?player=mobile&live=capodeportes2"
+              "value": "https://www.capoplay.net/capodeportes2.php"
             }
           ]
         },
