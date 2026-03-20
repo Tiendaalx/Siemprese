@@ -1,6 +1,6 @@
 {
-  "appName": "TeleLatino.",
-  "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.7/telelatino.apk",
+  "appName": "TeleLatino",
+  "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.8/telelatino.apk",
   "menu": [
     {
       "title": "Política de Privacidad",
@@ -10,7 +10,7 @@
     {
       "title": "Compartir App",
       "type": "share",
-      "value": "Disfruta de Telelatino en tu Android. Descarga la última versión aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.7/telelatino.apk"
+      "value": "Disfruta de Telelatino en tu Android. Descarga la última versión aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.8/telelatino.apk"
     },
     {
       "title": "Descargar VPN",
@@ -20,7 +20,7 @@
     {
       "title": "Contacto",
       "type": "external",
-      "value": "https://wa.me/34624931996"
+      "value": "https://t.me/mundocuentasesp"
     }
   ],
   "sections": [
@@ -37,12 +37,12 @@
               "value": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
             },
             {
-              "type": "web_player",
-              "value": "https://mediahosting.space/embed/player?config=4d623621-f45a-4cf9-bf81-cf072f7b5bcd"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "web_player",
-              "value": "https://bolaloca.my/player/3/77"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -56,12 +56,12 @@
               "value": "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             },
             {
-              "type": "web_player",
-              "value": "https://bolaloca.my/player/3/69"
+              "type": "stream",
+              "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
             },
             {
-              "type": "web_player",
-              "value": "https://bolaloca.my/player/3/70"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -95,11 +95,11 @@
             },
             {
               "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "sniff",
-              "value": "https://tele-libre.fans/en-vivo/?r=L21wZDIucGhwP2lkPXR2ZTI0aA=="
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -219,7 +219,7 @@
         },
         {
           "title": "RNE",
-          "imageUrl": "https://scontent-mad2-1.xx.fbcdn.net/v/t39.30808-1/305199103_507329958061256_1402581169584861695_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=08baa4&_nc_ohc=e5NT_XxTLjgQ7kNvwEWI5wx&_nc_oc=AdkV36SKKgnCNJK2chCNo9dA6L8Cc4iDl6XldVTbQkvDfABejEUNA3JK7IuKmLzZuj9gCzyrt7RGDc9BEyERQc4v&_nc_zt=24&_nc_ht=scontent-mad2-1.xx&edm=AKsJ254EAAAA&_nc_gid=_DdXmcAq5eXzG_j6hjeD4w&oh=00_AfwtHLXFnfS3sqFlAQWPv8yka1ciobXqftjdZvQxFu02_Q&oe=69BE6193",
+          "imageUrl": "https://www.radio.es/175/rneradionacional.jpeg?version=e9bc654f8bf824fbf60e4a2c37f718a3822c055e",
           "requiresVpn": true,
           "options": [
             {
@@ -266,16 +266,35 @@
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=a1e5dbec-24b2-4dd3-99d4-b4400a3ed10d"
+            },
+            {
               "type": "sniff",
               "value": "https://www.tvporinternet2.com/movistar-liga-de-campeones-en-vivo-por-internet.html"
             },
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/movistar-liga-de-campeones-en-vivo.html"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/161"
+            }
+          ]
+        },
+        {
+          "title": "Movistar Liga de Campeones 4",
+          "imageUrl": "https://imgs.search.brave.com/9cIDSWfKwNpBcPXWV8DcYRqy-0riY07Nogxo1gfPSKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yMi50/aGVzcG9ydHNkYi5j/b20vaW1hZ2VzL21l/ZGlhL2NoYW5uZWwv/bG9nby93anZ3MnUx/NzI5MzMwOTk2LnBu/Zw",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=4d623621-f45a-4cf9-bf81-cf072f7b5bcd"
+            },
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/166"
             },
             {
               "type": "stream",
-              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161959"
+              "value": "https://bolaloca.my/player/3/164"
             }
           ]
         },
@@ -285,8 +304,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-tycar.playlist.m3u8"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/77"
             },
             {
               "type": "sniff",
@@ -294,7 +313,7 @@
             },
             {
               "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-tycar.playlist.m3u8"
             }
           ]
         },
@@ -304,16 +323,35 @@
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/69"
+            },
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/01"
+            },
+            {
               "type": "stream",
               "value": "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
-            },
+            }
+          ]
+        },
+        {
+          "title": "M LA LIGA ",
+          "imageUrl": "https://roja-directa.life/wp-content/uploads/2026/01/M-LaLiga-HD-rojadirecta.jpg",
+          "requiresVpn": true,
+          "options": [
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/bein-sports-xtra-en-vivo-por-internet.html"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=b4ea5bdf-3e92-4589-8b65-1e6f4ec023e5"
             },
             {
               "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             }
           ]
         },
@@ -323,12 +361,12 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=laligahypermotion"
+              "type": "WEb_player",
+              "value": "https://mediahosting.space/embed/player?config=0014bcd9-f4db-40dd-bb18-8f65f173659d"
             },
             {
-              "type": "stream",
-              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161873"
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=laligahypermotion"
             },
             {
               "type": "stream",
@@ -342,12 +380,50 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.html"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/162"
             },
             {
               "type": "sniff",
-              "value": "https://www.telegratishd.com/movistar-deportes-en-vivo.html"
+              "value": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.htm"
+            },
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/163"
+            }
+          ]
+        },
+        {
+          "title": "FOXSPORT DEPORTES",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/70"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            }
+          ]
+        },
+        {
+          "title": "EUROESPORT",
+          "imageUrl": "https://i.imgur.com/s4jDnJh.png",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/15"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             },
             {
               "type": "stream",
@@ -361,12 +437,31 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/dazn-f1-en-vivo.html"
+              "type": "WEB_player",
+              "value": "https://mediahosting.space/embed/player?config=015c164d-adba-4fb3-ad2e-ec68eb86186a"
             },
             {
               "type": "sniff",
               "value": "https://www.tvporinternet2.com/dazn-f1-en-vivo-por-internet.html"
+            },
+            {
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/dazn-f1-en-vivo.html"
+            }
+          ]
+        },
+        {
+          "title": "espn deporte",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/71"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             },
             {
               "type": "stream",
@@ -375,59 +470,59 @@
           ]
         },
         {
-          "title": "ESPN 7 Lat",
-          "imageUrl": "https://i.postimg.cc/xTYp20B9/In-Shot-20251010-211018612.jpg",
+          "title": "DIRETTV",
+          "imageUrl": "https://play-lh.googleusercontent.com/OeeL1D_m19xsMRQdhjYaetJukmAUpqRrUW-DKq8Htg2usZ3Oplam7t1tPDXhbVP-ww",
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/94"
+            },
+            {
+              "type": "sniff",
+              "value": "https://www.telegratishd.com/directv-sports-en-vivo.html"
+            },
+            {
               "type": "stream",
-              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn7lt.playlist.m3u8"
-            },
-            {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/espn-7-en-vivo-por-internet.html"
-            },
-            {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=espn7"
+              "value": "http://icomplay.net:80/play/xsMhoipHrR2xCy_HYxpmae-C4-JA0u4YhmR77im-tB6B1Ebanz7705_2wTzGyg-P/ts"
             }
           ]
         },
         {
-          "title": "ESPN Premium Lat",
-          "imageUrl": "https://i.postimg.cc/SRDnjRp0/In-Shot-20251018-095209924.jpg",
+          "title": "DIRETTV 2",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/95"
+            },
+            {
               "type": "stream",
-              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espnpremlat.playlist.m3u8"
+              "value": "TERCER_LINK_AQUI"
             },
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/espn-premium-en-vivo-por-internet.html"
-            },
-            {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/espn-premium-en-vivo.html"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
         {
-          "title": "ESPN",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8gVB_VOZSrxym1jnKzlX2wKwTbTBJDjtYw&s",
+          "title": "DIRETTV mas",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/96"
             },
             {
               "type": "stream",
-              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playlist.m3u8"
+              "value": "TERCER_LINK_AQUI"
             },
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=espn"
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -437,8 +532,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/espn-2-en-vivo.html"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/88"
             },
             {
               "type": "stream",
@@ -456,8 +551,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=espn3"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/89"
             },
             {
               "type": "stream",
@@ -475,12 +570,12 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/espn-4-en-vivo.html"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/90"
             },
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=espn4"
+              "type": "web_player",
+              "value": "https://ligue1live.xyz/Zoz/2/161  "
             },
             {
               "type": "sniff",
@@ -494,8 +589,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/91"
             },
             {
               "type": "stream",
@@ -503,7 +598,7 @@
             },
             {
               "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-104.playlist.m3u8"
             }
           ]
         },
@@ -513,35 +608,73 @@
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/75"
+            },
+            {
               "type": "sniff",
               "value": "https://www.telegratishd.com/tnt-sports-en-vivo.html"
             },
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=tntsports"
-            },
-            {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=tntsports"
+              "type": "web_player",
+              "value": "https://glisco.link/ch?id=10"
             }
           ]
         },
         {
-          "title": "DIRETTV",
-          "imageUrl": "https://play-lh.googleusercontent.com/OeeL1D_m19xsMRQdhjYaetJukmAUpqRrUW-DKq8Htg2usZ3Oplam7t1tPDXhbVP-ww",
+          "title": "ESPN 7 Lat",
+          "imageUrl": "https://i.postimg.cc/xTYp20B9/In-Shot-20251010-211018612.jpg",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/92"
+            },
+            {
+              "type": "stream",
+              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espn7lt.playlist.m3u8"
+            },
+            {
+              "type": "sniff",
+              "value": "https://streamtp10.com/global1.php?stream=espn7"
+            }
+          ]
+        },
+        {
+          "title": "ESPN Premium Lat",
+          "imageUrl": "https://i.postimg.cc/SRDnjRp0/In-Shot-20251018-095209924.jpg",
           "requiresVpn": true,
           "options": [
             {
               "type": "stream",
-              "value": "https://www.telegratishd.com/directv-sports-en-vivo.html"
+              "value": "http://170.246.176.223:12300/Live/ce4f9057196d9a934a172c8a206a893a/local-espnpremlat.playlist.m3u8"
+            },
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/76"
             },
             {
               "type": "sniff",
-              "value": "https://www.telegratishd.com/directv-sports-en-vivo.html"
+              "value": "https://www.telegratishd.com/espn-premium-en-vivo.html"
+            }
+          ]
+        },
+        {
+          "title": "ESPN",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8gVB_VOZSrxym1jnKzlX2wKwTbTBJDjtYw&s",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/87"
             },
             {
               "type": "stream",
-              "value": "http://icomplay.net:80/play/xsMhoipHrR2xCy_HYxpmae-C4-JA0u4YhmR77im-tB6B1Ebanz7705_2wTzGyg-P/ts"
+              "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         },
@@ -551,16 +684,35 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
               "type": "sniff",
               "value": "https://www.telegratishd.com/dazn-la-liga-en-vivo.html"
             },
             {
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
+            }
+          ]
+        },
+        {
+          "title": "TV BAR",
+          "imageUrl": "https://i.imgur.com/I8ldXf5.png",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://streamcrichd.com/update/laligauk.php"
+            },
+            {
               "type": "stream",
-              "value": "http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/161922"
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "web_player",
+              "value": "https://streamcrichd.com/update/laligauk.php"
             }
           ]
         },
@@ -584,17 +736,64 @@
           ]
         },
         {
+          "title": "NBA",
+          "imageUrl": "https://imgs.search.brave.com/NPC85ELj2fKl3kEzC1-BIqohC-SDII8PpWoIynNf5E8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zcG9y/dHMuY2JzaW1nLm5l/dC9mbHkvaW1hZ2Vz/L2xlYWd1ZS1sb2dv/cy81NC5zdmc",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://capo7play.com/capo2.php?player=mobile&live=capodeportes2"
+            },
+            {
+              "type": "web_player",
+              "value": "https://capo7play.com/capo2.php?player=mobile&live=capodeportes2"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "WIN SPORT",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1280px-Win_Sports_nuevo_logo.svg.png",
           "requiresVpn": true,
           "options": [
             {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/81"
+            },
+            {
               "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=winplus"
+              "value": "https://streamtp10.com/global1.php?stream=winplus\r"
             },
             {
               "type": "stream",
               "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "\nDEPORTES",
+      "items": [
+        {
+          "title": "M+ DEPORTES 4 ",
+          "imageUrl": "https://i.imgur.com/Zt3iE86.png",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/65"
+            },
+            {
+              "type": "stream",
+              "value": "https://bolaloca.my/player/3/165"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
             }
           ]
         }
