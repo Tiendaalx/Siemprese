@@ -1,6 +1,6 @@
 {
   "appName": "TeleLatino",
-  "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.8/telelatino.apk",
+  "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v2.0/telelatino.apk",
   "menu": [
     {
       "title": "Política de Privacidad",
@@ -10,7 +10,7 @@
     {
       "title": "Compartir App",
       "type": "share",
-      "value": "Disfruta de Telelatino en tu Android. Descarga la última versión aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v1.8/telelatino.apk"
+      "value": "Disfruta de Telelatino en tu Android. Descarga la última versión aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v2.0/telelatino.apk"
     },
     {
       "title": "Descargar VPN",
