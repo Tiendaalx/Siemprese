@@ -1,5 +1,6 @@
 #EXTM3U
 
+#ACCION
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/7998821772245471b.jpg" group-title="Acción",Acción 01
 http://170.246.176.223:12300/?watch=799882&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/12656091772929504b.jpg" group-title="Acción",Acción 02
@@ -31,6 +32,7 @@ http://170.246.176.223:12300/?watch=1429738&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/13631231763777504b.jpg" group-title="Acción",Acción 15
 http://170.246.176.223:12300/?watch=1363123&movie#3
 
+#AVENTURA
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/15990901769372790b.jpg" group-title="Aventura",Aventura 01
 http://170.246.176.223:12300/?watch=1599090&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/8404641770004627b.jpg" group-title="Aventura",Aventura 02
@@ -62,6 +64,7 @@ http://170.246.176.223:12300/?watch=1559996&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/5335331761356160b.jpg" group-title="Aventura",Aventura 15
 http://170.246.176.223:12300/?watch=533533&movie#3
 
+#COMEDIA
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/16314851772929671b.jpg" group-title="Comedia",Comedia 01
 http://170.246.176.223:12300/?watch=1631485&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/12434601771119789b.jpg" group-title="Comedia",Comedia 02
@@ -93,6 +96,7 @@ http://170.246.176.223:12300/?watch=1255775&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/15803531765723482b.jpg" group-title="Comedia",Comedia 15
 http://170.246.176.223:12300/?watch=1580353&movie#3
 
+#SUSPENSO
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/13891491772374009b.jpg" group-title="Suspenso",Suspenso 01
 http://170.246.176.223:12300/?watch=1389149&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/11991931772852349b.jpg" group-title="Suspenso",Suspenso 02
@@ -124,6 +128,7 @@ http://170.246.176.223:12300/?watch=840464&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/13153031771035856b.jpg" group-title="Suspenso",Suspenso 15
 http://170.246.176.223:12300/?watch=1315303&movie#3
 
+#TERROR
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/10107551772852013b.jpg" group-title="Terror",Terror 01
 http://170.246.176.223:12300/?watch=1010755&movie#3
 #EXTINF:-1 tvg-logo="http://170.246.176.223:12300/poster/w600/6804931773016020b.jpg" group-title="Terror",Terror 02
