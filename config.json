@@ -37,12 +37,12 @@
               "value": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
             },
             {
-              "type": "sniff",
-              "value": "https://bolaloca.my/player/3/01"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=4d623621-f45a-4cf9-bf81-cf072f7b5bcd"
             },
             {
-              "type": "vlc",
-              "value": "https://be7713.rcr82.waw05.r66nv9ed.com/hls2/09/10900/c06vjg30ekwv_n/index-v1-a1.m3u8?t=eO1tvIUsVsq1d7QYT_RyzPFFGpDVMhsRP3WDgS-UrGA&s=1773926936&e=10800&f=54502668&srv=1075&asn=13335&sp=5500&p=0"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/77"
             }
           ]
         },
@@ -57,11 +57,11 @@
             },
             {
               "type": "web_player",
-              "value": "https://player.cuevana.bi/?token=1BwBTX0FYClQeXlwA&pops=true"
+              "value": "https://bolaloca.my/player/3/69"
             },
             {
               "type": "web_player",
-              "value": "https://capo7play.com/capo2.php?player=mobile&live=capodeportes2"
+              "value": "https://bolaloca.my/player/3/70"
             }
           ]
         },
