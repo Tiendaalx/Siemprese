@@ -361,7 +361,7 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "WEb_player",
+              "type": "web_player",
               "value": "https://mediahosting.space/embed/player?config=0014bcd9-f4db-40dd-bb18-8f65f173659d"
             },
             {
