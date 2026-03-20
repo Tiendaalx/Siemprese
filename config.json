@@ -437,7 +437,7 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "WEB_player",
+              "type": "web_player",
               "value": "https://mediahosting.space/embed/player?config=015c164d-adba-4fb3-ad2e-ec68eb86186a"
             },
             {
