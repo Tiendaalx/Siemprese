@@ -280,6 +280,25 @@
           ]
         },
         {
+          "title": "DAZN 1",
+          "imageUrl": "https://imgs.search.brave.com/bnxhU3HlyYKdS3t_WT8YyvblXqR3G83daK7yiczIXcs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2luY3JvZ3VpYS50/di91cGxvYWRzL2No/YW5uZWxzL3hsb2dv/LWRhem4tMS0xMTYx/LmpwZy5wYWdlc3Bl/ZWQuaWMuRHBhdHl2/SG5OZC5qcGc",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/3/56"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "DAZN LA LIGA",
           "imageUrl": "https://yt3.googleusercontent.com/Tpd5oPJlZrPG2sveqaegjfCSaEtqfPRppdhv3v2eMDUT94F3AbicfHmSVqWvslLVX5OlUrDq2Q=s900-c-k-c0x00ffffff-no-rj",
           "requiresVpn": true,
