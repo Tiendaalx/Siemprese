@@ -361,7 +361,7 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "web_player",
+              "type": "stream",
               "value": "https://rodrixtv.store/tv/canal6.html"
             },
             {
