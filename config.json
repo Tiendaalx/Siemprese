@@ -388,8 +388,8 @@
               "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=19_"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=43_"
             }
           ]
         },
@@ -515,6 +515,25 @@
             {
               "type": "web_player",
               "value": "https://bolaloca.my/player/3/15"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            }
+          ]
+        },
+        {
+          "title": "NFL",
+          "imageUrl": "https://imgs.search.brave.com/-JaX_l-gfr4DCwipcHIuUipNUECeTZ-Fi7vkFCxudds/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hNTcu/Zm94c3BvcnRzLmNv/bS9zdGF0aWNzLmZv/eHNwb3J0cy5jb20v/d3d3LmZveHNwb3J0/cy5jb20vY29udGVu/dC91cGxvYWRzLzIw/MjYvMDIvMTI4MC83/MjAvbmZsb25mb3gt/bG9nb18xMDQweDU4/NS5qcGc_dmU9MSZ0/bD0x",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=44_"
             },
             {
               "type": "stream",
