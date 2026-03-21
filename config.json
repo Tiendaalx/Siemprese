@@ -327,12 +327,12 @@
               "value": "https://mediahosting.space/embed/player?config=435916ba-f992-4160-9cde-d6c86f395931"
             },
             {
-              "type": "web_player",
-              "value": "https://elcanaldeportivo.com/player.php?id=UNIVERSOUS"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "web_player",
-              "value": "https://elcanaldeportivo.com/universo.php"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             }
           ]
         },
@@ -732,6 +732,25 @@
             {
               "type": "sniff",
               "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
+            }
+          ]
+        },
+        {
+          "title": "UNIVERSO",
+          "imageUrl": "https://imgs.search.brave.com/QkcNqQJJf9YzAEwAjQGEdJgQebow3vt2_U-uksI-yso/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9vYnNl/cnZhbmRvZWx1bml2/ZXJzby5lcy93cC1j/b250ZW50L3VwbG9h/ZHMvcXVlLW51bWVy/by1lcy1lbC1jYW5h/bC11bml2ZXJzby1l/bi1lc3RhZG9zLXVu/aWRvcy53ZWJw",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://elcanaldeportivo.com/player.php?id=UNIVERSOUS"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             }
           ]
         },
