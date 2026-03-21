@@ -290,11 +290,11 @@
             },
             {
               "type": "web_player",
-              "value": "https://bolaloca.my/player/3/166"
+              "value": "space/embed/player?config=25d8598c-bb65-4fcd-8444-de5ccf298ef9"
             },
             {
               "type": "stream",
-              "value": "https://bolaloca.my/player/3/164"
+              "value": "https://bolaloca.my/player/3/166"
             }
           ]
         },
