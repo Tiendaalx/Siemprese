@@ -327,8 +327,8 @@
               "value": "https://bolaloca.my/player/3/77"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "iframe_player",
+              "value": "https://viewembed.ru/channel/SkySportsNews%5BUK%5D"
             },
             {
               "type": "stream",
