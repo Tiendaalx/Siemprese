@@ -280,6 +280,25 @@
           ]
         },
         {
+          "title": "DAZN LA LIGA",
+          "imageUrl": "https://yt3.googleusercontent.com/Tpd5oPJlZrPG2sveqaegjfCSaEtqfPRppdhv3v2eMDUT94F3AbicfHmSVqWvslLVX5OlUrDq2Q=s900-c-k-c0x00ffffff-no-rj",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
+            },
+            {
+              "type": "web_player",
+              "value": "https://rodrixtv.store/tv/espn.html"
+            },
+            {
+              "type": "sniff",
+              "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
+            }
+          ]
+        },
+        {
           "title": "Movistar Liga de Campeones 4",
           "imageUrl": "https://imgs.search.brave.com/HR5h-P_-zcM6sxZM6qRq7MbYFK-52yJ9c84FcNnW9_g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2luY3JvZ3VpYS50/di91cGxvYWRzL2lt/YWdlcy9wL28vdS94/bGlnYS1kZS1jYW1w/ZW9uZXM0LmpwZy5w/YWdlc3BlZWQuaWMu/R0Z6OU1GWC1uaS5q/cGc",
           "requiresVpn": true,
@@ -726,8 +745,8 @@
               "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/dazn-la-liga-en-vivo.html"
+              "type": "web_player",
+              "value": "https://rodrixtv.store/tv/espn.html"
             },
             {
               "type": "sniff",
