@@ -293,7 +293,7 @@
               "value": "https://mediahosting.space/embed/player?config=25d8598c-bb65-4fcd-8444-de5ccf298ef9"
             },
             {
-              "type": "stream",
+              "type": "web_player",
               "value": "https://bolaloca.my/player/3/166"
             }
           ]
