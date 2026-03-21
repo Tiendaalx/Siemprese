@@ -289,8 +289,8 @@
               "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=29_"
             },
             {
               "type": "sniff",
@@ -356,6 +356,25 @@
           ]
         },
         {
+          "title": "SKY SPORT",
+          "imageUrl": "https://imgs.search.brave.com/x1wDB8Sus-oJcueBdg3kTAqo95osYIy8R8E25ZOUBH8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/dmVjdG9ybG9nby5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMTIvc2t5LXNw/b3J0cy12ZWN0b3It/bG9nby1zbWFsbC0y/MDIxLnBuZw",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=40_"
+            },
+            {
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=37_"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "ESPN PLUS",
           "imageUrl": "https://imgs.search.brave.com/gVBrcmUcQqRGgEcn7_QkU7NPe_0NXsDYaKhlgDkoZrs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZXNw/bi1wbHVzLWxvZ28t/Y2Jxc2tpZmozcXFo/OTBubi5qcGc",
           "requiresVpn": true,
@@ -365,8 +384,8 @@
               "value": "https://streamtpnew.com/global1.php?stream=espnplus1"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=19_"
             },
             {
               "type": "stream",
@@ -688,8 +707,8 @@
               "value": "https://bolaloca.my/player/3/75"
             },
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/tnt-sports-en-vivo.html"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=35_"
             },
             {
               "type": "web_player",
@@ -859,8 +878,8 @@
               "value": "https://bolaloca.my/player/3/81"
             },
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=winplus"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=30_"
             },
             {
               "type": "stream",
