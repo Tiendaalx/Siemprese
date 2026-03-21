@@ -308,8 +308,8 @@
               "value": "https://bolaloca.my/player/3/77"
             },
             {
-              "type": "sniff",
-              "value": "https://www.telegratishd.com/tyc-sports-en-vivo.html"
+              "type": "web_player",
+              "value": "https://futbollibrelibre.com/canales.php?stream=tycsports"
             },
             {
               "type": "stream",
