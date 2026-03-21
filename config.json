@@ -1,4 +1,4 @@
-{
+45{
   "appName": "TeleLatino2.1",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v2.1/telelatino2.1.apk",
   "menu": [
@@ -922,7 +922,7 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
+              "type": "vlc",
               "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8"
             },
             {
