@@ -844,8 +844,8 @@
               "value": "https://rodrixtv.store/tv/canal10.html"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://www.capoplay.net/liga1max.php"
             }
           ]
         },
