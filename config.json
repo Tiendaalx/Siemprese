@@ -745,8 +745,8 @@
               "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://streamtpnew.com/global1.php?stream=espnplus1"
             },
             {
               "type": "stream",
