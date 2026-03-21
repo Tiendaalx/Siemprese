@@ -281,7 +281,7 @@
         },
         {
           "title": "Movistar Liga de Campeones 4",
-          "imageUrl": "https://imgs.search.brave.com/9cIDSWfKwNpBcPXWV8DcYRqy-0riY07Nogxo1gfPSKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yMi50/aGVzcG9ydHNkYi5j/b20vaW1hZ2VzL21l/ZGlhL2NoYW5uZWwv/bG9nby93anZ3MnUx/NzI5MzMwOTk2LnBu/Zw",
+          "imageUrl": "https://imgs.search.brave.com/9cIDSWfKwNpBcPXWV8DcYRqy-0riY07Nogxo1gfPSKg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yMi50aGVzcG9ydHNkYi5jb20vaW1hZ2VzL21lZGlhL2NoYW5uZWwvbG9nby93anZ3MnUxNzI5MzMwOTk2LnBuZw",
           "requiresVpn": true,
           "options": [
             {
@@ -337,7 +337,7 @@
           ]
         },
         {
-          "title": "M LA LIGA ",
+          "title": "M LA LIGA",
           "imageUrl": "https://roja-directa.life/wp-content/uploads/2026/01/M-LaLiga-HD-rojadirecta.jpg",
           "requiresVpn": true,
           "options": [
@@ -575,7 +575,7 @@
             },
             {
               "type": "web_player",
-              "value": "https://ligue1live.xyz/Zoz/2/161  "
+              "value": "https://ligue1live.xyz/Zoz/2/161"
             },
             {
               "type": "sniff",
@@ -737,7 +737,7 @@
         },
         {
           "title": "NBA",
-          "imageUrl": "https://imgs.search.brave.com/NPC85ELj2fKl3kEzC1-BIqohC-SDII8PpWoIynNf5E8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zcG9y/dHMuY2JzaW1nLm5l/dC9mbHkvaW1hZ2Vz/L2xlYWd1ZS1sb2dv/cy81NC5zdmc",
+          "imageUrl": "https://imgs.search.brave.com/NPC85ELj2fKl3kEzC1-BIqohC-SDII8PpWoIynNf5E8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zcG9ydHMuY2JzaW1nLm5ldC9mbHkvaW1hZ2VzL2xlYWd1ZS1sb2dvcy81NC5zdmc",
           "requiresVpn": true,
           "options": [
             {
@@ -765,16 +765,16 @@
             },
             {
               "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=winplus\r"
+              "value": "https://streamtp10.com/global1.php?stream=winplus"
             },
             {
               "type": "stream",
               "value": "http://170.246.176.223:12300/?watch=799882&movie#3"
             }
           ]
-        },    
+        },
         {
-          "title": "M+ DEPORTES 4 ",
+          "title": "M+ DEPORTES 4",
           "imageUrl": "https://i.imgur.com/Zt3iE86.png",
           "requiresVpn": true,
           "options": [
