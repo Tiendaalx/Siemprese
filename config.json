@@ -1,5 +1,5 @@
 {
-  "appName": "TeleLatino2.1.",
+  "appName": "TeleLatino2.1",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v2.1/telelatino2.1.apk",
   "menu": [
     {
@@ -327,8 +327,8 @@
               "value": "https://bolaloca.my/player/3/77"
             },
             {
-              "type": "iframe_player",
-              "value": "https://rodrixtv.store/tv/canal5.html"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=6_"
             },
             {
               "type": "stream",
@@ -1102,8 +1102,8 @@
               "value": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
             },
             {
-              "type": "sniff",
-              "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=8_"
             },
             {
               "type": "stream",
