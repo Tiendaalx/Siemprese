@@ -432,6 +432,25 @@
           ]
         },
         {
+          "title": "VAMOS  MOVISTAR",
+          "imageUrl": "http://imgs.search.brave.com/6lrOxXx5dFxLNUhTG4s2jL5qdVUtUrRuZpYQMgFXXdg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ5LzEvdmFtb3Mt/cG9yLW1vdmlzdGFy/LXBsdXMtbG9nby1w/bmdfc2Vla2xvZ28t/NDkzNzA5LnBuZw",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=95a31752-0fb5-4006-ab8d-71e0141117dc"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "TERCER_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "EUROESPORT",
           "imageUrl": "https://imgs.search.brave.com/IQso0YKToyMEnWDbt5MPITnMgT-zCRtQvC1vpA8QmIQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoL2lkL09JUC40/MmdHUzlJOGwtNFBU/aGxreGxYUEV3SGFI/YT9waWQ9QXBp",
           "requiresVpn": true,
