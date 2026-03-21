@@ -318,6 +318,25 @@
           ]
         },
         {
+          "title": "Movistar GOLF",
+          "imageUrl": "https://imgs.search.brave.com/m5m0JE2Kn32jqn6sEmK4WdxF-GZD3GVVQBYAXq6UI3k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/c2luY3JvZ3VpYS50/di91cGxvYWRzL2lt/YWdlcy9tL28vdi94/bW92aXN0YXItZ29s/Zi5qcGcucGFnZXNw/ZWVkLmljLnpqQVhS/M3ZSeWQuanBn",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=435916ba-f992-4160-9cde-d6c86f395931"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "BEIN SPOR",
           "imageUrl": "https://imgs.search.brave.com/NdN5VtX-5LGCJ-DP_xx_Z-FBzUBDIcoqcJ-7nLCn_2s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ4LzMvYmVpbi1z/cG9ydHMtbG9nby1w/bmdfc2Vla2xvZ28t/NDgxNTgyLnBuZw",
           "requiresVpn": true,
