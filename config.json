@@ -426,8 +426,8 @@
               "value": "https://mediahosting.space/embed/player?config=04041d58-3730-4b76-8c9b-c3c3138a6dee"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=32_"
             }
           ]
         },
