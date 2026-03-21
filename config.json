@@ -863,7 +863,7 @@
               "value": "https://cointv.site/canales.php?id=campeones-op3"
             },
             {
-              "type": "web_player",
+              "type": "sniff",
               "value": "https://futbollibretv.su/eventos/?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9bGFsaWdhdHY="
             }
           ]
