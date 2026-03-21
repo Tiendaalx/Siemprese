@@ -270,8 +270,8 @@
               "value": "https://mediahosting.space/embed/player?config=a1e5dbec-24b2-4dd3-99d4-b4400a3ed10d"
             },
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/movistar-liga-de-campeones-en-vivo-por-internet.html"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=25d8598c-bb65-4fcd-8444-de5ccf298ef9"
             },
             {
               "type": "web_player",
