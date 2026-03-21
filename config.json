@@ -479,8 +479,8 @@
               "value": "https://bolaloca.my/player/3/162"
             },
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/movistar-la-liga-en-vivo-por-internet.htm"
+              "type": "web_player",
+              "value": "https://bolaloca.my/player/2/49"
             },
             {
               "type": "web_player",
