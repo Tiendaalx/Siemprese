@@ -266,8 +266,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=a1e5dbec-24b2-4dd3-99d4-b4400a3ed10d"
             },
             {
               "type": "web_player",
