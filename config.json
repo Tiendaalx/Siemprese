@@ -384,8 +384,8 @@
               "value": "https://mediahosting.space/embed/player?config=0014bcd9-f4db-40dd-bb18-8f65f173659d"
             },
             {
-              "type": "sniff",
-              "value": "https://streamtp10.com/global1.php?stream=laligahypermotion"
+              "type": "web_player",
+              "value": "https://tvtvhd.com/canales.php?stream=hypermotion1"
             },
             {
               "type": "stream",
