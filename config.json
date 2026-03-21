@@ -293,8 +293,8 @@
               "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://deporte-libre.click/mpd2.php?id=dazn1"
             }
           ]
         },
