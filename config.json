@@ -327,12 +327,12 @@
               "value": "https://mediahosting.space/embed/player?config=435916ba-f992-4160-9cde-d6c86f395931"
             },
             {
-              "type": "web_player",
-              "value": "https://rodrixtv.store/tv/canal41.html"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "web_player",
-              "value": "https://zonalive.click/player/hoca/115"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             }
           ]
         },
