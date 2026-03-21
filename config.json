@@ -384,7 +384,7 @@
               "value": "https://mediahosting.space/embed/player?config=0014bcd9-f4db-40dd-bb18-8f65f173659d"
             },
             {
-              "type": "web",
+              "type": "sniff",
               "value": "https://tvtvhd.com/canales.php?stream=hypermotion1"
             },
             {
