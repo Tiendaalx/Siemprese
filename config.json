@@ -883,12 +883,12 @@
               "value": "http://181.78.8.199:8000/play/a09f/index.m3u8"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "vlc",
+              "value": "https://a50.azplay30.me/hls/streama251192/index.m3u8?cst=1b9075e7f50691a4321a8f2254874306"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://emb.apl395.me/player/live.php?id=251192&w=700&h=481"
             }
           ]
         }
@@ -922,7 +922,7 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "vlc",
+              "type": "stream",
               "value": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8"
             },
             {
