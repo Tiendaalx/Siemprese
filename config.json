@@ -1,5 +1,5 @@
 {
-  "appName": "TeleLatino2.1.",
+  "appName": "TeleLatino2.1",
   "shareText": "Descarga mi app desde aquí: https://github.com/mundocuentagratis-byte/telelatino-config/releases/download/v2.1/telelatino2.1.apk",
   "menu": [
     {
@@ -262,7 +262,7 @@
       "items": [
         {
           "title": "Movistar Liga de Campeones",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s",
+          "imageUrl": "https://imgs.search.brave.com/nbJByYFOREWB8I9RNgbEpHAJtQgvR-RC8XBuvKp1aMo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ5LzEvbGlnYS1k/ZS1jYW1wZW9uZXMt/cG9yLW1vdmlzdGFy/LXBsdXMtbG9nby1w/bmdfc2Vla2xvZ28t/NDkyODQwLnBuZw",
           "requiresVpn": true,
           "options": [
             {
