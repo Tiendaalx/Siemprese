@@ -289,8 +289,8 @@
               "value": "https://bolaloca.my/player/3/56"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://cointv.site/canales.php?id=dazn1"
             },
             {
               "type": "web_player",
