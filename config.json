@@ -441,8 +441,8 @@
               "value": "https://mediahosting.space/embed/player?config=95a31752-0fb5-4006-ab8d-71e0141117dc"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://mediahosting.space/embed/player?config=272a058c-5800-4a8a-8ecf-23af0f56551e"
             },
             {
               "type": "stream",
