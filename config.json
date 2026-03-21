@@ -289,8 +289,8 @@
               "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
-              "type": "web_player",
-              "value": "https://rodrixtv.store/tv/espn.html"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
               "type": "sniff",
@@ -745,12 +745,12 @@
               "value": "https://mediahosting.space/embed/player?config=10a9d5f1-582b-456e-be18-f4bdb7b33275"
             },
             {
-              "type": "web_player",
-              "value": "https://hoca6.com/footy.php?player=desktop&live=ufeed51"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             },
             {
-              "type": "sniff",
-              "value": "https://www.tvporinternet2.com/dazn-la-liga-en-vivo-por-internet.html"
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
             }
           ]
         },
