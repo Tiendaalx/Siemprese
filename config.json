@@ -863,7 +863,7 @@
               "value": "https://cointv.site/canales.php?id=campeones-op3"
             },
             {
-              "type": "web_player",
+              "type": "iframe_player",
               "value": "https://core.donromans.com/?app=glz&0.1.5#3bhjztcc"
             }
           ]
