@@ -361,8 +361,8 @@
           "requiresVpn": true,
           "options": [
             {
-              "type": "stream",
-              "value": "https://rodrixtv.store/tv/canal6.html"
+              "type": "web_player",
+              "value": "https://streamtpnew.com/global1.php?stream=espnplus1"
             },
             {
               "type": "stream",
