@@ -901,8 +901,8 @@
               "value": "https://capo7play.com/capo2.php?player=mobile&live=capodeportes2"
             },
             {
-              "type": "stream",
-              "value": "TERCER_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://embedsports.top/embed/admin/ppv-oklahoma-city-thunder-vs-washington-wizards/1"
             }
           ]
         },
