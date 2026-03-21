@@ -385,7 +385,7 @@
             },
             {
               "type": "web",
-              "value": "<iframe src=\"https://tvtvhd.com/canales.php?stream=hypermotion1\" allow=\"autoplay\"></iframe>"
+              "value": "https://tvtvhd.com/canales.php?stream=hypermotion1"
             },
             {
               "type": "stream",
