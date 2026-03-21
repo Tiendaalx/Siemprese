@@ -356,6 +356,25 @@
           ]
         },
         {
+          "title": "ESPN PLUS",
+          "imageUrl": "https://imgs.search.brave.com/gVBrcmUcQqRGgEcn7_QkU7NPe_0NXsDYaKhlgDkoZrs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvZXNw/bi1wbHVzLWxvZ28t/Y2Jxc2tpZmozcXFo/OTBubi5qcGc",
+          "requiresVpn": true,
+          "options": [
+            {
+              "type": "web_player",
+              "value": "https://rodrixtv.store/tv/canal6.html"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            },
+            {
+              "type": "stream",
+              "value": "SEGUNDO_LINK_AQUI"
+            }
+          ]
+        },
+        {
           "title": "BEIN SPOR",
           "imageUrl": "https://imgs.search.brave.com/NdN5VtX-5LGCJ-DP_xx_Z-FBzUBDIcoqcJ-7nLCn_2s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ4LzMvYmVpbi1z/cG9ydHMtbG9nby1w/bmdfc2Vla2xvZ28t/NDgxNTgyLnBuZw",
           "requiresVpn": true,
@@ -764,8 +783,8 @@
               "value": "https://elcanaldeportivo.com/player.php?id=UNIVERSOUS"
             },
             {
-              "type": "stream",
-              "value": "SEGUNDO_LINK_AQUI"
+              "type": "web_player",
+              "value": "https://rodrixtv.store/tv/canal10.html"
             },
             {
               "type": "stream",
